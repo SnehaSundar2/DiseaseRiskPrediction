@@ -1,0 +1,8 @@
+person_id,age,sex,bmi,systolic_bp,cholesterol,hdl,glucose,exercise_hours,smoker,family_history,bp_medication,alcohol
+A1,62,Male,31.0,152,260.0,36.0,118,0.5,yes,yes,yes,Heavy
+A2,28,Female,22.0,112/70,170.0,62.0,5.0 mmol/L,6.0,no,no,no,Moderate
+A3,47,F,27.5,130,,,,,,,,
+A4,71,male,26.0,138,210.0,,,,no,,,
+A5,35,Male,29.0,125,,,,1.0,yes,,,
+B1,200,Male,26.0,120,,,,,,,,
+B2,40,Other,26.0,120,,,,,,,,
